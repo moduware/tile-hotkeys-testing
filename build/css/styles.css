@@ -1,0 +1,29 @@
+body {
+  padding-top: 50px;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: white;
+}
+
+.main-content {
+	display: block;
+	margin-bottom: 40%;
+}
+
+.mdl-data-table__cell {
+	background-color: #eee;
+	font-size: 13px;
+}
+
+input {
+	font-size: 13px;
+}
+
+.title {
+	margin-left: 33%;
+	font-size: 18px;
+	font-weight: bold;
+}
